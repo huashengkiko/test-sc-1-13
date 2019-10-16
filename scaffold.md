@@ -9,15 +9,15 @@
 - **工具版本**: v1.14.0
 - **node版本**: v10.13.0
 - **yeoman版本**: v2.0.6
-- **生成时间**: 2019-10-16 04:03:22
+- **生成时间**: 2019-10-16 06:36:41
 - **生成方式**: 命令模式
 - **生成参数**: 
 ```json
-{"groupId":"com.deepexi","artifactId":"test-sc-1-13","basePackage":"com.deepexi","mavenUrl":"http://nexus.deepexi.top/repository/maven-public/","templateEngine":"thymeleaf","log":"log4j2","jsonParser":"fastjson","db":"mysql","dbPool":"druid","orm":"mybatis-plus","discovery":"eureka","feignCircuit":"hystrix","mq":"rabbitmq","configservice":"apollo","authentication":"jwt","jwtIssue":"deepexi","security":"shiro","cache":"redis","apm":"skywalking","swVersion":"6.4.0","demo":true,"mode":"command","cli":"yo generator-deepexi-spring-cloud -c --groupId=com.deepexi --artifactId=test-sc-1-13 --basePackage= --mavenUrl=http://nexus.deepexi.top/repository/maven-public/ --templateEngine=thymeleaf --log=log4j2 --jsonParser=fastjson --db=mysql --dbPool=druid --orm=mybatis-plus --discovery=eureka --feignCircuit=hystrix --mq=rabbitmq --configservice=apollo --authentication=jwt --jwtIssue=deepexi --security=shiro --cache=redis --apm=skywalking --swVersion=6.4.0 --demo=true","version":"1.14.0","basePath":"com/deepexi","conditions":{"mybatis-plus":true,"crud":true,"fastjson":true,"rabbitmq":true,"apollo":true,"jwt":true,"shiro":true,"thymeleaf":true,"redis":true,"skywalking":true},"openfeign":true}
+{"groupId":"com.deepexi","artifactId":"test-sc-1-13","basePackage":"com.deepexi","mavenUrl":"http://nexus.deepexi.top/repository/maven-public/","templateEngine":"thymeleaf","log":"log4j2","jsonParser":"fastjson","db":"mysql","dbPool":"druid","orm":"mybatis-plus","discovery":"eureka","feignCircuit":"hystrix","mq":"rabbitmq","configservice":"apollo","authentication":"jwt","jwtIssue":"deepexi","security":"shiro","cache":"redis","apm":"none","swVersion":"6.4.0","demo":true,"mode":"command","cli":"yo generator-deepexi-spring-cloud -c --groupId=com.deepexi --artifactId=test-sc-1-13 --basePackage= --mavenUrl=http://nexus.deepexi.top/repository/maven-public/ --templateEngine=thymeleaf --log=log4j2 --jsonParser=fastjson --db=mysql --dbPool=druid --orm=mybatis-plus --discovery=eureka --feignCircuit=hystrix --mq=rabbitmq --configservice=apollo --authentication=jwt --jwtIssue=deepexi --security=shiro --cache=redis --apm=none --swVersion=6.4.0 --demo=true","version":"1.14.0","basePath":"com/deepexi","conditions":{"mybatis-plus":true,"crud":true,"fastjson":true,"rabbitmq":true,"apollo":true,"jwt":true,"shiro":true,"thymeleaf":true,"redis":true},"openfeign":true}
 ```
 - **生成命令**: 
 ```text
-yo generator-deepexi-spring-cloud -c --groupId=com.deepexi --artifactId=test-sc-1-13 --basePackage= --mavenUrl=http://nexus.deepexi.top/repository/maven-public/ --templateEngine=thymeleaf --log=log4j2 --jsonParser=fastjson --db=mysql --dbPool=druid --orm=mybatis-plus --discovery=eureka --feignCircuit=hystrix --mq=rabbitmq --configservice=apollo --authentication=jwt --jwtIssue=deepexi --security=shiro --cache=redis --apm=skywalking --swVersion=6.4.0 --demo=true
+yo generator-deepexi-spring-cloud -c --groupId=com.deepexi --artifactId=test-sc-1-13 --basePackage= --mavenUrl=http://nexus.deepexi.top/repository/maven-public/ --templateEngine=thymeleaf --log=log4j2 --jsonParser=fastjson --db=mysql --dbPool=druid --orm=mybatis-plus --discovery=eureka --feignCircuit=hystrix --mq=rabbitmq --configservice=apollo --authentication=jwt --jwtIssue=deepexi --security=shiro --cache=redis --apm=none --swVersion=6.4.0 --demo=true
 ```
 
 ## 项目参考
